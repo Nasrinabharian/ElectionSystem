@@ -6,6 +6,6 @@ Created An Election System in Python using the tkinter package to decorate. Serv
     3.Choosing the Final Candidates by Managers
     4.Listing Candidates and their information
     5.Registering Vote
-    6.Representing the final results
+    6.Publishing the results
     
 Collaborators: Nasrin Abharian, Farida Farpour, Reyhaneh Abtahi, Mina Beheshti.
